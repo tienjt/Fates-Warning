@@ -1,0 +1,234 @@
+/* ------------------------------------ Body Styles ------------------------------------ */
+
+body {
+	font-size: 13px;
+	font-family: 'Trebuchet MS', 'Bitstream Vera Sans', Verdana, Arial, 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, sans-serif;
+	padding: 0;
+	margin: 0;
+	text-align: center;
+	}
+	
+#wrap {
+	width: 758px;
+	margin: 0 auto;
+	text-align: left;
+	font-family: "Trebuchet MS", "Bitstream Vera Sans", Verdana, Arial, "Lucida Sans", "Lucida Sans Unicode", Helvetica, sans-serif;
+	}	
+
+/* ------------------------------------ Header Styles ------------------------------------ */
+
+#header {
+	margin: 5px 0;
+	height: 120px;
+	}
+
+/* ------------------------------------ Navbar Styles ------------------------------------ */
+
+#menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+#menu li {
+    float: left;
+}
+
+#menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 8px;
+    text-decoration: none;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+	
+#menu li a:hover {
+    background-color: black;
+}
+	
+#menu ul li a.active {
+	background-color: black;
+	}
+	
+#menu ul li a#one {
+	width: 142px;
+	margin-top: 22px;
+	}
+	
+#menu ul li a#two {
+	width: 132px;
+	margin-top: 22px;
+	}
+	
+#menu ul li a#three {
+	width: 131px;
+	margin-top: 22px;
+	}
+	
+#menu ul li a#four {
+	width: 131px;
+	margin-top: 22px;
+	}
+	
+#menu ul li a#five {
+	width: 142px;
+	margin-top: 22px;
+	}
+	
+/* ------------------------------------ Content Styles ------------------------------------ */
+	
+#content {
+	width: 100%;
+	margin-top: 10px;
+	float: left;
+	}
+	
+#left {
+	width: 21%;
+	float: left;
+	
+	}
+	
+#middle {
+	width: 77%;
+	margin-left: 175px;
+	text-align: justify;
+	}
+	
+/* ------------------------------------ Left Content Styles ------------------------------------ */
+	
+#merch, #track {
+	background: #666 url(./img/c_br.gif) no-repeat right bottom; 
+	margin-bottom: 10px;
+	}
+	
+#track iframe {
+	margin-bottom: 12px;
+	}
+	
+#left h4 {
+	margin: 0 0 0 5px;
+	text-transform: uppercase;
+	color: white;
+	}
+	
+.star_back {
+	padding: 10px;
+	background: transparent url(./img/star_back.gif) no-repeat;
+	}
+	
+hr {
+	color: #333;
+	margin-top: 15px;
+	}
+	
+/* ------------------------------------ Middle Content Styles ------------------------------------ */
+
+#welcome h3 {
+	margin-top: 10px;
+	}
+
+#news h4 {
+	background: #333 url(./img/c_br.gif) no-repeat right bottom;
+	margin-left: -5px;
+	padding: 5px;
+	text-transform: uppercase;
+	color: white;
+	}
+	
+#news h3 {
+	padding-left: 15px;
+	background: transparent url(./img/begin_b.gif) no-repeat left 4px;
+	}
+
+#news p {
+	padding-left: 15px;
+	text-align: justify;
+	}
+
+#news p a {
+	color: black;
+	}
+
+#news p a:hover {
+	color: #666;
+	}
+
+#bio h4 {
+	background: #333 url(./img/c_br.gif) no-repeat right bottom;
+	margin-left: -5px;
+	padding: 5px;
+	text-transform: uppercase;
+	color: white;
+	}
+	
+#bio p {
+	margin-left: 0px;
+	}
+	
+#bio img {
+	padding-right: 15px;
+	text-align: center;
+	}
+	
+#albums table {
+	border: 1px solid gray;
+	width: 99%;
+	}
+	
+#albums th {
+	background-color: #666;
+	color: white;
+	}
+	
+#albums img {
+	display: block;
+	margin: 0 auto;
+	}
+	
+#tours table {
+	border: 1px solid gray;
+	width: 99%;
+	}
+	
+#tours th {
+	background-color: #666;
+	color: white;
+	}
+
+#tours td a {
+	color: black;
+	}
+
+#tours td a:hover {
+	color: #666;
+	}
+	
+#tours img {
+	display:block;
+	margin: 0 auto;
+	}
+
+/* ------------------------------------ Footer Styles ------------------------------------ */
+
+#footer {
+	clear: both;
+	margin: 5px 0;
+	background: #333 url(./img/footer.jpg) no-repeat;
+	text-align: right;
+	height: 35px;
+	font-size: 90%;
+	color: white;
+	}
+	
+#footer a {
+	color: white;
+	}
+
+#footer a:hover {
+	color: #666;
+	}
