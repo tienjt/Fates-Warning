@@ -102,7 +102,7 @@ body {
 /* ------------------------------------ Left Content Styles ------------------------------------ */
 	
 #merch, #track {
-	background: #666 url(./img/c_br.gif) no-repeat right bottom; 
+	background: #666 url(http://github.com/tienjt/Fates-Warning/blob/master/c_br.gif?raw=true) no-repeat right bottom; 
 	margin-bottom: 10px;
 	}
 	
@@ -133,7 +133,7 @@ hr {
 	}
 
 #news h4 {
-	background: #333 url(./img/c_br.gif) no-repeat right bottom;
+	background: #333 url(http://github.com/tienjt/Fates-Warning/blob/master/c_br.gif?raw=true) no-repeat right bottom;
 	margin-left: -5px;
 	padding: 5px;
 	text-transform: uppercase;
@@ -142,7 +142,7 @@ hr {
 	
 #news h3 {
 	padding-left: 15px;
-	background: transparent url(./img/begin_b.gif) no-repeat left 4px;
+	background: transparent url(http://github.com/tienjt/Fates-Warning/blob/master/begin_b.gif?raw=true) no-repeat left 4px;
 	}
 
 #news p {
@@ -159,7 +159,7 @@ hr {
 	}
 
 #bio h4 {
-	background: #333 url(./img/c_br.gif) no-repeat right bottom;
+	background: #333 url(http://github.com/tienjt/Fates-Warning/blob/master/c_br.gif?raw=true) no-repeat right bottom;
 	margin-left: -5px;
 	padding: 5px;
 	text-transform: uppercase;
@@ -218,7 +218,7 @@ hr {
 #footer {
 	clear: both;
 	margin: 5px 0;
-	background: #333 url(./img/footer.jpg) no-repeat;
+	background: #333 url(http://github.com/tienjt/Fates-Warning/blob/master/footer.jpg?raw=true) no-repeat;
 	text-align: right;
 	height: 35px;
 	font-size: 90%;
